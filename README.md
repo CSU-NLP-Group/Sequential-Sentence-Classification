@@ -14,5 +14,7 @@ And it can be find in github from ["PubMed 200k RCT dataset"](https://github.com
 
 # Run
 The command for runing the model on pubmed-rct dataset `allennlp train config/biobert_biaffine_pubmed-rct.jsonnet -s saved_models/pubmed-rct/ --include-package codes --force` .
+
 The command for runing the model on pubmed-pico dataset `allennlp train config/biobert_biaffine_pubmed-pico.jsonnet -s saved_models/pubmed-pico/ --include-package codes --force` .
+
 After training, the results can be found in folder 'saved_models/pubmed-rct/' and 'saved_models/pubmed-pico/' respectivly.
