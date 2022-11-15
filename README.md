@@ -1,5 +1,9 @@
 # Sequential-Sentence-Classification
 code for our paper Sequential Sentence Classification with a Boundary-aware Dual Biaffine Model for Biomedical Documents
+
+# Requirement
+All the requirements are listed in the requirement.txt
+
 # Dataset
 ## Pubmed-pico
 This dataset is introduced by [Jin, Di, and Peter Szolovits. "PICO Element Detection in Medical Text via Long Short-Term Memory Neural Networks." Proceedings of the BioNLP 2018 workshop. 2018.](http://www.aclweb.org/anthology/W18-2308)
